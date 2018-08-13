@@ -1,0 +1,25 @@
+{
+  "name": "easy-unzip",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyawswarthwin/easy-unzip.git"
+  },
+  "keywords": [
+    "unzip"
+  ],
+  "author": "Kyaw Swar Thwin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kyawswarthwin/easy-unzip/issues"
+  },
+  "homepage": "https://github.com/kyawswarthwin/easy-unzip#readme",
+  "dependencies": {
+    "yauzl": "^2.10.0"
+  }
+}
